@@ -5,13 +5,13 @@ const announcementBarContent = `🌟更新 2022 年终总结`
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '愧怍的小站',
+  title: '四象世界',
   titleDelimiter: '-',
   url: 'https://sixiang.world',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'kuizuo',
-  projectName: 'blog',
+  organizationName: 'siyijiang',
+  projectName: 'sixiang.world',
   tagline: '记录所学知识，领略编程之美',
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
@@ -153,7 +153,7 @@ const config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/kuizuo',
+              href: 'https://github.com/siyijiang',
             },
             {
               label: '掘金',
@@ -236,7 +236,7 @@ const config = {
       playgroundPosition: 'top',
     },
     socials: {
-      github: 'https://github.com/kuizuo',
+      github: 'https://github.com/siyijiang',
       twitter: 'https://twitter.com/kuizuo',
       juejin: 'https://juejin.cn/user/1565318510545901',
       csdn: 'https://blog.csdn.net/kuizuo12',
@@ -282,7 +282,7 @@ const config = {
         path: 'blog',
         routeBasePath: '/',
         editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
-          `https://github.com/kuizuo/blog/edit/main/${blogDirPath}/${blogPath}`,
+          `https://github.com/siyijiang/sixiang.world/edit/main/${blogDirPath}/${blogPath}`,
         editLocalizedFiles: false,
         blogSidebarCount: 10,
         postsPerPage: 10,
@@ -329,10 +329,10 @@ const config = {
   stylesheets: [],
   i18n: {
     defaultLocale: 'zh',
-    locales: ['en', 'zh'],
+    locales: [ 'zh'],
     localeConfigs: {
-      en: {
-        htmlLang: 'en-GB',
+      zh: {
+        htmlLang: 'zh-Hans',
       },
     },
   },
