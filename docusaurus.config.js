@@ -1,5 +1,5 @@
 const path = require('path')
-const beian = '闽ICP备2020017848号-2'
+const beian = '粤ICP备2022062715号-1'
 
 const announcementBarContent = `🌟更新 2022 年终总结`
 
@@ -7,7 +7,7 @@ const announcementBarContent = `🌟更新 2022 年终总结`
 const config = {
   title: '愧怍的小站',
   titleDelimiter: '-',
-  url: 'https://kuizuo.cn',
+  url: 'https://sixiang.world',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'kuizuo',
