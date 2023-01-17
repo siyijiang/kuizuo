@@ -12,7 +12,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'siyijiang',
   projectName: 'sixiang.world',
-  tagline: '记录所学知识，领略编程之美',
+  tagline: '来源于思想，四象的幻想',
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
     image: 'img/logo.png',
@@ -218,12 +218,6 @@ const config = {
       },
       config: {}
     },
-    matomo: {
-      matomoUrl: 'https://matomo.kuizuo.cn/',
-      siteId: '1',
-      phpLoader: 'matomo.php',
-      jsLoader: 'matomo.js',
-    },
     giscus: {
       repo: 'siyijiang/sixiang-giscus',
       repoId: 'R_kgDOIyhUpQ',
@@ -272,7 +266,6 @@ const config = {
   ],
   // themes: ['@docusaurus/theme-live-codeblock'],
   plugins: [
-    'docusaurus-plugin-matomo',
     'docusaurus-plugin-image-zoom',
     'docusaurus-plugin-sass',
     path.resolve(__dirname, './src/plugin/plugin-baidu-tongji'),
