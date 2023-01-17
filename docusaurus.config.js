@@ -225,10 +225,10 @@ const config = {
       jsLoader: 'matomo.js',
     },
     giscus: {
-      repo: 'kuizuo/blog',
-      repoId: 'MDEwOlJlcG9zaXRvcnkzOTc2MjU2MTI=',
+      repo: 'siyijiang/sixiang-giscus',
+      repoId: 'R_kgDOIyhUpQ',
       category: 'General',
-      categoryId: 'DIC_kwDOF7NJDM4CPK95',
+      categoryId: 'DIC_kwDOIyhUpc4CTorz',
       mapping: 'title',
       lang: 'zh-CN',
     },
@@ -291,8 +291,8 @@ const config = {
           defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
         feedOptions: {
           type: 'all',
-          title: '愧怍',
-          copyright: `Copyright © ${new Date().getFullYear()} 愧怍 Built with Docusaurus.<p><a href="http://beian.miit.gov.cn/" class="footer_lin">${beian}</a></p>`,
+          title: '四象',
+          copyright: `Copyright © ${new Date().getFullYear()} 四象世界 Built with Docusaurus.<p><a href="http://beian.miit.gov.cn/" class="footer_lin">${beian}</a></p>`,
         },
       }
     ],
