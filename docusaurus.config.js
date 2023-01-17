@@ -40,16 +40,16 @@ const config = {
       }
     },
     navbar: {
-      title: '愧怍',
+      title: '四象',
       logo: {
-        alt: '愧怍',
+        alt: '四象',
         src: 'img/logo.webp',
         srcDark: 'img/logo.webp',
       },
       hideOnScroll: true,
       items: [
         {
-          label: '学习',
+          label: '随记',
           position: 'right',
           items: [
             {
@@ -96,7 +96,7 @@ const config = {
             },
             {
               label: '网盘',
-              to: 'https://pan.kuizuo.cn',
+              to: 'https://file.sixiang.world',
             },
           ],
         },
@@ -109,10 +109,6 @@ const config = {
           label: '项目',
           position: 'right',
           to: 'project',
-        },
-         {
-          type: 'localeDropdown',
-          position: 'right',
         },
       ],
     },
