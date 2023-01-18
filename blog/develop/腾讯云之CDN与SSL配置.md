@@ -2,7 +2,7 @@
 slug: tencent-cloud-cdn-and-ssl
 title: 腾讯云之CDN与SSL配置
 date: 2020-12-15
-authors: kuizuo
+authors: sixiang
 tags: [cloud-services]
 keywords: [cloud-services]
 ---

@@ -2,7 +2,7 @@
 slug: vscode-extension
 title: 写一个VSCode扩展
 date: 2022-07-11
-authors: kuizuo
+authors: sixiang
 tags: [vscode, plugin, extension, develop]
 keywords: [vscode, plugin, extension, develop]
 description: 编写一个属于个人定制化的 VSCode 扩展，并将其发布到应用商店中

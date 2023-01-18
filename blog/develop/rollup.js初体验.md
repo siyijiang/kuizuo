@@ -2,7 +2,7 @@
 slug: rollup-js-experience
 title: rollup.js 初体验
 date: 2022-10-18
-authors: kuizuo
+authors: sixiang
 tags: [rollup, webpack, utils]
 keywords: [rollup, webpack, utils]
 ---

@@ -2,7 +2,7 @@
 slug: second-blog-is-docusaurus
 title: 第二个博客搭建之Docusaurus
 date: 2021-08-20
-authors: kuizuo
+authors: sixiang
 tags: [blog, docusaurus, project]
 keywords: [blog, docusaurus, project]
 ---

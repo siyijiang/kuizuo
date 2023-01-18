@@ -3,7 +3,7 @@ id: idea-config
 slug: /idea-config
 title: IDEA基本配置
 date: 2022-01-06
-authors: kuizuo
+authors: sixiang
 tags: [Jetbrains, idea, java, 工具]
 keywords: [Jetbrains, idea, java, 工具]
 ---

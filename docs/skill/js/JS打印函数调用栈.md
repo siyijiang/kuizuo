@@ -3,7 +3,7 @@ id: js-print-stack-of-function
 slug: /js-print-stack-of-function
 title: JS输出函数调用栈
 date: 2021-10-15
-authors: kuizuo
+authors: sixiang
 tags: [javascript, callstack]
 keywords: [javascript, callstack]
 ---

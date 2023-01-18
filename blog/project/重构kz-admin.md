@@ -2,7 +2,7 @@
 slug: refactor-kz-admin
 title: 重构kz-admin
 date: 2022-11-07
-authors: kuizuo
+authors: sixiang
 tags: [project, admin]
 keywords: [project, admin]
 description: kz-admin 是一个基于 NestJs + TypeScript + TypeORM + Redis + MySql + Vben Admin 编写的一款前后端分离的权限管理系统

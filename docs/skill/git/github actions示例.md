@@ -3,7 +3,7 @@ id: github-actions-example
 slug: github-actions-example
 title: github actions示例
 date: 2021-10-01
-authors: kuizuo
+authors: sixiang
 tags: [github, action]
 keywords: [github, action]
 ---

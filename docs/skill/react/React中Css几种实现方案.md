@@ -2,7 +2,7 @@
 slug: react-css-implementation
 title: React中Css几种实现方案
 date: 2022-01-14
-authors: kuizuo
+authors: sixiang
 tags: [react, css]
 keywords: [react, css]
 ---

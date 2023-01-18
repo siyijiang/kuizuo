@@ -3,7 +3,7 @@ id: wappalyzer-recognize-technology
 slug: /wappalyzer-recognize-technology
 title: Wappalyzer识别网站上的技术
 date: 2021-07-20
-authors: kuizuo
+authors: sixiang
 tags: [chrome, 插件]
 keywords: [chrome, 插件]
 ---

@@ -2,7 +2,7 @@
 slug: springboot-hot-update
 title: SpringBoot热更新
 date: 2022-01-10
-authors: kuizuo
+authors: sixiang
 tags: [java, springboot]
 keywords: [java, springboot]
 ---

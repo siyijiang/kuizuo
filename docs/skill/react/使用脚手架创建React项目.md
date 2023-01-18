@@ -3,7 +3,7 @@ id: create-react-app
 slug: /create-react-app
 title: 使用脚手架创建React项目
 date: 2021-09-15
-authors: kuizuo
+authors: sixiang
 tags: [react]
 keywords: [react]
 ---
