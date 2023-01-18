@@ -248,7 +248,7 @@ const config = {
           priority: 0.5,
         },
         gtag: {
-          trackingID: "9d823031f86c89e0543d2af2f05ce5c1",
+          trackingID: "GTM-5WJNMPS",
           anonymizeIP: true,
         },
         // debug: true,
