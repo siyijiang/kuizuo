@@ -18,7 +18,7 @@ const config = {
     metadata: [
       {
         name: 'keywords',
-        content:'愧怍'
+        content:'四象'
       },
       {
         name: 'keywords',
@@ -173,7 +173,7 @@ const config = {
         ],
         },
       ],
-      copyright: `<p><a href="http://beian.miit.gov.cn/" >${beian}</a></p><p>Copyright © 2020 - PRESENT 愧怍 Built with Docusaurus.</p>`,
+      copyright: `<p><a href="http://beian.miit.gov.cn/" >${beian}</a></p><p>Copyright © 2020 - PRESENT 四象世界 Built with Docusaurus.</p>`,
     },
     prism: {
       theme: require('prism-react-renderer/themes/vsLight'),

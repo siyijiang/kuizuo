@@ -25,7 +25,7 @@ const friends: Website[] = Friends.map((f) => {
 
 export const websiteData: WebsiteCategory[] = [
   {
-    name: '友链👨‍💻',
+    name: '友链🥰',
     websites: friends,
   },
   {

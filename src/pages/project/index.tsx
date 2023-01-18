@@ -17,10 +17,10 @@ const TITLE = translate({
 });
 const DESCRIPTION = translate({
   id: 'theme.project.description',
-  message: '以下项目均由本人开发，均可自由使用，部分开源。',
+  message: '展示四象搭建的项目，绝大部分基于开源项目搭建，可自己自行搭建',
 });
 
-const GITHUB_URL = 'https://github.com/kuizuo';
+const GITHUB_URL = 'https://github.com/siyijiang';
 
 type ProjectState = {
   scrollTopPosition: number;
