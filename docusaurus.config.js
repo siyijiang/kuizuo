@@ -1,7 +1,6 @@
 const path = require('path')
 const beian = '粤ICP备2022062715号-1'
 
-const announcementBarContent = `🌟更新 2022 年终总结`
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -16,10 +15,6 @@ const config = {
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
     image: 'img/logo.png',
-    announcementBar: {
-      id: 'announcementBar-3',
-      content: announcementBarContent,
-    },
     metadata: [
       {
         name: 'keywords',
@@ -184,7 +179,7 @@ const config = {
       theme: require('prism-react-renderer/themes/vsLight'),
       darkTheme: require('prism-react-renderer/themes/vsDark'),
       additionalLanguages: ['java', 'php', 'rust', 'toml'],
-      defaultLanguage: 'javascript',
+      defaultLanguage: 'shell',
       magicComments: [
         {
           className: 'theme-code-block-highlighted-line',
@@ -253,7 +248,7 @@ const config = {
           priority: 0.5,
         },
         gtag: {
-          trackingID: "G-S4SD5NXWXF",
+          trackingID: "9d823031f86c89e0543d2af2f05ce5c1",
           anonymizeIP: true,
         },
         // debug: true,
@@ -309,7 +304,7 @@ const config = {
           {
             tagName: 'meta',
             name: 'theme-color',
-            content: 'rgb(51 139 255)',
+            content: 'rgb(0 47 167)',
           },
         ],
       },
