@@ -44,7 +44,7 @@ const config = {
       hideOnScroll: true,
       items: [
         {
-          label: '随记',
+          label: '文档',
           position: 'right',
           items: [
             {
