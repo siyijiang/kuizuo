@@ -34,7 +34,7 @@ function Hero() {
         </animated.div>
         <animated.p style={trails[1]}>
           <Translate id="homepage.hero.text">
-            {`在这里我会分享各类技术栈所遇到问题与解决方案，带你了解最新的技术栈以及实际开发中如何应用，并希望我的开发经历对你有所启发。`}
+            {`在这里我会分享记录自己折腾服务器的，记录自己在生活中的一些随记，不定期分享一些好玩的东西，推荐一些好用的网站或者在线工具，希望这些可以帮助大家。`}
           </Translate>
           <br />
           <br />
@@ -63,7 +63,7 @@ function Hero() {
               ),
             }}
           >
-            {`你可以随处逛逛，查看{note}、{project}、{link}、以及我的{idea}。`}
+            {`我会在这里记录我的{note}、{project}、{link}、以及我的{idea}。`}
           </Translate>
         </animated.p>
         <SocialLinks style={trails[2]} />

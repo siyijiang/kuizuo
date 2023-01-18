@@ -63,10 +63,6 @@ const config = {
               label: '工具推荐',
               to: 'docs/tools/',
             },
-            {
-              label: '前端示例',
-              to: 'https://example.kuizuo.cn',
-            },
           ],
         },
         {

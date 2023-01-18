@@ -1,16 +1,16 @@
 {
-  "name": "blog",
+  "name": "sixiang.world",
   "version": "2.2.0",
   "author": {
-    "url": "https://github.com/kuizuo",
-    "email": "hi@kuizuo.cn",
-    "name": "Kuizuo"
+    "url": "https://github.com/siyijiang",
+    "email": "siyijiang233@outlook.com",
+    "name": "SiXiang"
   },
   "repository": {
-    "url": "https://github.com/kuizuo/blog",
+    "url": "https://github.com/siyijiang/sixiang.world",
     "type": "git"
   },
-  "homepage": "https://kuizuo.cn",
+  "homepage": "https://sixiang.world",
   "license": "MIT",
   "scripts": {
     "docusaurus": "docusaurus",
