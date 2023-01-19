@@ -7,7 +7,7 @@ const config = {
   title: '四象世界',
   titleDelimiter: '-',
   url: 'https://sixiang.world',
-  baseUrl: '/',
+  baseUrl: '/static',
   favicon: 'img/favicon.ico',
   organizationName: 'siyijiang',
   projectName: 'sixiang.world',
