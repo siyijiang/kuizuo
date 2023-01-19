@@ -85,13 +85,9 @@ export function SocialLinks({ ...prop }) {
   const { themeConfig } = siteConfig;
   const socials = themeConfig.socials as {
     github: string;
-    twitter: string;
-    juejin: string;
-    csdn: string;
+    mail: string;
     qq: string;
-    wx: string;
-    cloudmusic: string;
-    zhihu: string;
+    bilibili: string;
   };
 
   return (
@@ -99,20 +95,17 @@ export function SocialLinks({ ...prop }) {
       <a href="/rss.xml" target="_blank">
         <Icon icon='ri:rss-line' />
       </a>
+      <a href={socials.mail} target="_blank">
+        <Icon icon='ri:mail-line' />
+      </a>
       <a href={socials.github} target="_blank">
         <Icon icon='ri:github-line' />
-      </a>
-      <a href={socials.juejin} target="_blank">
-        <JuejinIcon />
       </a>
       <a href={socials.qq} target="_blank">
         <Icon icon='ri:qq-line' />
       </a>
-      <a href={socials.twitter} target="_blank">
-        <Icon icon='ri:twitter-line' />
-      </a>
-      <a href={socials.zhihu} target="_blank">
-        <Icon icon='ri:zhihu-line' />
+      <a href={socials.bilibili} target="_blank">
+        <Icon icon='ri:bilibili-line' />
       </a>
     </animated.div>
   );
