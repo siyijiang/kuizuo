@@ -45,7 +45,7 @@ const config = {
       items: [
         {
           label: '博客',
-          position: 'right',
+          position: 'left',
           items: [
             {
               label: '标签',
@@ -59,7 +59,7 @@ const config = {
         },
         {
           label: '文档',
-          position: 'right',
+          position: 'left',
           items: [
             {
               label: '笔记',
@@ -73,7 +73,7 @@ const config = {
         },
         {
           label: '工具',
-          position: 'right',
+          position: 'left',
           items: [
             {
               label: '个人导航页',
