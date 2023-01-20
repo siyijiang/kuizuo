@@ -92,6 +92,11 @@ const config = {
           to: 'website',
         },
         {
+          label: '友链',
+          position: 'right',
+          to: 'links',
+        },
+        {
           label: '项目',
           position: 'right',
           to: 'project',

@@ -25,8 +25,15 @@ const friends: Website[] = Friends.map((f) => {
 
 export const websiteData: WebsiteCategory[] = [
   {
-    name: '友链🥰',
-    websites: friends,
+    name: '博客常用工具',
+    websites: [
+      {
+        name: "EMOJIALL",
+        desc: "Emoji大全提供了完整的Emoji搜索和相关信息，包括表情符号含义、使用示例、Unicode代码点、高分辨率图片、复制和粘贴。",
+        logo: "https://www.emojiall.com/logo-dark.png",
+        href: "https://juejin.cn/",
+      },
+    ],
   },
   {
     name: '每周必刷🔥',
@@ -1057,5 +1064,9 @@ export const websiteData: WebsiteCategory[] = [
         tags: [],
       },
     ],
+  },
+  {
+    name: '友链🥰',
+    websites: friends,
   },
 ];

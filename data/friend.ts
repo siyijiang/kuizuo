@@ -5,16 +5,10 @@ export const Friends: Friend[] = [
     website: 'https://www.codegang.top/',
     avatar: require('./avatar/DMB.png'),
   },
-  {
-    title: '申请友链',
-    description: '点击申请加入我的友链吧',
-    website: 'https://blog.shi1011.cn/',
-    avatar: require('./avatar/join.png'),
-  },
 //直接复制就可以加了
 ];
 
-export type Friend = {
+export type links = {
   title: string;
   description: string;
   website: string;
