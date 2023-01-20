@@ -154,7 +154,7 @@ const config = {
           items: [{
             label: '友链',
             position: 'right',
-            to: 'friends',
+            to: 'links',
           }, {
             label: '导航',
             position: 'right',
