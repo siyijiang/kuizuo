@@ -1,8 +1,0 @@
-{
-  "label": "Docker",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "使用Docker可以更快的部署应用，因为完全使用沙箱机制，所以无需担忧Docker将你的配置环境搞得一塌糊涂，且可以随意移植到不同的机器上（只要有Docker）"
-  }
-}

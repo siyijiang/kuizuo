@@ -63,12 +63,12 @@ const config = {
           position: 'left',
           items: [
             {
-              label: '技术笔记',
+              label: '笔记',
               to: 'docs/skill/',
             },
             {
-              label: '我的分享',
-              to: 'docs/share/',
+              label: '工具推荐',
+              to: 'docs/tools/',
             },
           ],
         },
