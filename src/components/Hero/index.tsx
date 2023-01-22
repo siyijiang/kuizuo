@@ -47,7 +47,7 @@ function Hero() {
                 </Link>
               ),
               tools: (
-                <Link to="/docs/tools">
+                <Link to="/docs/share">
                   <Translate id="hompage.hero.tools">分享系列</Translate>
                 </Link>
               ),
