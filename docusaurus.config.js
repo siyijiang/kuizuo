@@ -123,12 +123,12 @@ const config = {
           title: '文档',
           items: [
             {
-              label: '笔记',
+              label: '技术笔记',
               to: 'docs/skill',
             },
             {
-              label: '工具推荐',
-              to: 'docs/tools/',
+              label: '我的分享',
+              to: 'docs/share/',
             },
           ],
         },
