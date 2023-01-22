@@ -46,9 +46,9 @@ function Hero() {
                   <Translate id="hompage.hero.note">技术笔记</Translate>
                 </Link>
               ),
-              project: (
-                <Link to="/project">
-                  <Translate id="hompage.hero.project">实战项目</Translate>
+              tools: (
+                <Link to="/docs/tools">
+                  <Translate id="hompage.hero.tools">分享系列</Translate>
                 </Link>
               ),
               link: (
@@ -57,8 +57,8 @@ function Hero() {
                 </Link>
               ),
               idea: (
-                <Link to="/tags/随记">
-                  <Translate id="hompage.hero.idea">生活随记</Translate>
+                <Link to="/archive">
+                  <Translate id="hompage.hero.idea">博客文章</Translate>
                 </Link>
               ),
             }}

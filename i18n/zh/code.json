@@ -21,27 +21,27 @@
     "description": "hero text"
   },
   "homepage.hero.look":{
-    "message": "我会在这里记录我的{note}、{project}、{link}、以及我的{idea}。",
+    "message": "我会在这里记录我的{note}、{tools}、{idea}、以及我的{link}。",
     "description": "hero look"
   },
   "hompage.hero.note": {
     "message": "技术笔记",
     "description": "Note link label"
   },
-  "hompage.hero.project": {
-    "message": "实战项目",
-    "description": "Project link label"
+  "hompage.hero.tools": {
+    "message": "分享系列",
+    "description": "Various sharing"
   },
   "hompage.hero.link": {
     "message": "网址导航",
     "description": "Link link label"
   },
   "hompage.hero.idea": {
-    "message": "想法感悟",
+    "message": "博客文章",
     "description": "Idea label"
   },
   "homepage.qqgroup": {
-    "message": "QQ 群：5478458",
+    "message": "QQ 群：00000000",
     "description": "qq group"
   },
   "自我介绍": {
