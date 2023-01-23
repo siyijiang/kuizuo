@@ -22,11 +22,11 @@ const config = {
       },
       {
         name: 'keywords',
-        content: 'blog, javascript, typescript, node, react, vue, web',
+        content: 'blog, docusaurus, 四象, node, react, vue, web',
       },
       {
         name: 'keywords',
-        content: '编程爱好者, Web开发者, 写过爬虫, 学过逆向，现在主攻ts全栈',
+        content: '博客, docusaurus, 文档, 四象，现在主攻ts全栈',
       },
     ],
     docs: {
