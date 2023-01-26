@@ -41,7 +41,7 @@
     "@docusaurus/theme-search-algolia": "^2.2.0",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
-    "@giscus/react": "^2.0.6",
+    "@giscus/react": "^2.2.6",
     "@popperjs/core": "^2.11.2",
     "@react-spring/web": "^9.6.1",
     "dayjs": "^1.11.7",
