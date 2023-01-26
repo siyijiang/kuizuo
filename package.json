@@ -44,7 +44,7 @@
     "@giscus/react": "^2.0.6",
     "@popperjs/core": "^2.11.2",
     "@react-spring/web": "^9.6.1",
-    "dayjs": "^1.10.7",
+    "dayjs": "^1.11.7",
     "docusaurus-plugin-image-zoom": "^0.1.1",
     "docusaurus-plugin-matomo": "^0.0.6",
     "docusaurus-plugin-sass": "^0.2.3",
