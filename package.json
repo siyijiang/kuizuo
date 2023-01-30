@@ -64,7 +64,7 @@
     "@docusaurus/module-type-aliases": "^2.2.0",
     "@iconify/react": "^4.0.0",
     "@tsconfig/docusaurus": "^1.0.5",
-    "@typescript-eslint/eslint-plugin": "^5.48.2",
+    "@typescript-eslint/eslint-plugin": "^5.49.0",
     "@typescript-eslint/parser": "^5.42.1",
     "eslint": "^8.21.0",
     "eslint-config-prettier": "^8.5.0",
