@@ -2226,15 +2226,15 @@
     use-sync-external-store "^1.2.0"
     utility-types "^3.10.0"
 
-"@docusaurus/theme-live-codeblock@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@docusaurus/theme-live-codeblock/-/theme-live-codeblock-2.2.0.tgz#a507e496a1a74d261beee30ad072e4341310809a"
-  integrity sha512-4XRFxfZGcyqmbLmNbnbZ2ZOsoY7FYCJUZKsYW5yzhZYjmjGg7lkdJH5trt9otUoKBsZopBpPWvcDZwCu1SENYg==
+"@docusaurus/theme-live-codeblock@^2.3.0":
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/@docusaurus/theme-live-codeblock/-/theme-live-codeblock-2.3.0.tgz#c0b8d55f176fd5c9e6080c31058fc75ba3a20a49"
+  integrity sha512-78TXtcnO6jSMWT7i+VKkA8YMkWBb2scOwhNhUBqRE3XYiI3DWc97Nvjtlbdj7jdPHiQvwVbpjyZ6kCb7vRfQDw==
   dependencies:
-    "@docusaurus/core" "2.2.0"
-    "@docusaurus/theme-common" "2.2.0"
-    "@docusaurus/theme-translations" "2.2.0"
-    "@docusaurus/utils-validation" "2.2.0"
+    "@docusaurus/core" "2.3.0"
+    "@docusaurus/theme-common" "2.3.0"
+    "@docusaurus/theme-translations" "2.3.0"
+    "@docusaurus/utils-validation" "2.3.0"
     "@philpl/buble" "^0.19.7"
     clsx "^1.2.1"
     fs-extra "^10.1.0"
