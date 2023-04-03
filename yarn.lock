@@ -1868,7 +1868,7 @@
     tslib "^2.4.0"
     webpack "^5.73.0"
 
-"@docusaurus/plugin-debug@2.3.0", "@docusaurus/plugin-debug@^2.2.0":
+"@docusaurus/plugin-debug@2.3.0":
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/@docusaurus/plugin-debug/-/plugin-debug-2.3.0.tgz#94d01b010094a2e90bf48f72f92ddbaf710f99d7"
   integrity sha512-TyeH3DMA9/8sIXyX8+zpdLtSixBnLJjW9KSvncKj/iXs1t20tpUZ1WFL7D+G1gxGGbLCBUGDluh738VvsRHC6Q==
@@ -1876,6 +1876,18 @@
     "@docusaurus/core" "2.3.0"
     "@docusaurus/types" "2.3.0"
     "@docusaurus/utils" "2.3.0"
+    fs-extra "^10.1.0"
+    react-json-view "^1.21.3"
+    tslib "^2.4.0"
+
+"@docusaurus/plugin-debug@^2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@docusaurus/plugin-debug/-/plugin-debug-2.4.0.tgz#1ad513fe9bcaf017deccf62df8b8843faeeb7d37"
+  integrity sha512-KC56DdYjYT7Txyux71vXHXGYZuP6yYtqwClvYpjKreWIHWus5Zt6VNi23rMZv3/QKhOCrN64zplUbdfQMvddBQ==
+  dependencies:
+    "@docusaurus/core" "2.4.0"
+    "@docusaurus/types" "2.4.0"
+    "@docusaurus/utils" "2.4.0"
     fs-extra "^10.1.0"
     react-json-view "^1.21.3"
     tslib "^2.4.0"
